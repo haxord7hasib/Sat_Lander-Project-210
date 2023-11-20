@@ -10,6 +10,10 @@ This project demonstrates how to transmit MPU6050 sensor data wirelessly using A
 - Jumper Wires
 - Voltage Regulator (for MPU6050)
 
+## Libraries
+- RF24 Library: [RF24 on GitHub](https://github.com/nRF24/RF24)
+- MPU6050 Library: [MPU6050 on GitHub](https://github.com/ElectronicCats/mpu6050)
+
 ## Circuit Connections
 
 ### Transmitter Setup
