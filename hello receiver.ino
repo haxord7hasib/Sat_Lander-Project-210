@@ -2,10 +2,11 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 
-RF24 radio(7, 8); // CE, CSN
+// CE and CSN pin assignments
+RF24 radio(9, 10); // Change these pins if needed
 
+// Address for the communication channel
 const byte address[6] = "00001";
-char text[32] = "";
 
 void setup() {
     Serial.begin(9600);
@@ -17,6 +18,7 @@ void setup() {
 
 void loop() {
     if (radio.available()) {
+        char text[32] = "";
         radio.read(&text, sizeof(text));
         Serial.print("Received message: ");
         Serial.println(text);
