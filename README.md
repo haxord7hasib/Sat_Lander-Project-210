@@ -1,4 +1,4 @@
-![SAT-LANDER Save the Eggs](https://github.com/haxord7hasib/Sat_Lander-Project-210/blob/678a1773c094cdb4bfcd2bee0d18794e7d46414d/DALL%C2%B7E%202023-11-15%2022.15.16%20-%20A%20poster%20for%20the%20Independent%20University%20of%20Bangladesh%2C%20featuring%20the%20text%20'Sat%20Lander-%20Save%20the%20eggs'.jpg)
+
 
 # Wireless MPU6050 Data Transmission using Arduino and nRF24L01
 
