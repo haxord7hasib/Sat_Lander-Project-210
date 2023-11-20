@@ -1,4 +1,4 @@
-Wireless MPU6050 Data Transmission using Arduino and nRF24L01
+#Wireless MPU6050 Data Transmission using Arduino and nRF24L01
 This project demonstrates how to transmit MPU6050 sensor data wirelessly using Arduino Mega mini and nRF24L01 modules.
 
 Components
